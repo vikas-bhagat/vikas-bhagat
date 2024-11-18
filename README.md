@@ -30,5 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-bhagat&show_icons=true&locale=en" alt="vikas-bhagat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-bhagat&" alt="vikas-bhagat" /></p>
 
