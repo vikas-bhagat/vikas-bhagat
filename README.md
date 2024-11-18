@@ -1,13 +1,13 @@
 ![logo](https://github.com/vikas-bhagat/vikas-bhagat/blob/main/Orange%20Black%20Simple%20Digital%20Marketing%20Agency%20Outdoor%20Banner%20(Landscape).png)
+
 <h1 align="center">Hi 👋, I'm Vikas Bhagat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="50" height="50" src="![image](https://github.com/user-attachments/assets/fb6a89c9-0fad-4c53-bb1c-5474e40b1154)"
-
-
-
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-bhagat&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-bhagat" /> </p>
+
+- 📫 How to reach me **vikasbhagat3011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
