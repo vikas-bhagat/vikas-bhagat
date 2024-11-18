@@ -1,4 +1,4 @@
-![logo](https://github.com/vikas-bhagat/vikas-bhagat/blob/main/github%20banner.png)
+![logo](https://github.com/vikas-bhagat/vikas-bhagat/blob/main/Orange%20Black%20Simple%20Digital%20Marketing%20Agency%20Outdoor%20Banner%20(Landscape).png)
 <h1 align="center">Hi 👋, I'm Vikas Bhagat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
