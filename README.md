@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-bhagat&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-bhagat" /> </p>
 
-- 🌱 I’m currently learning  **backend**
-- - 💬 Ask me about  **html,css,javascript,bootstrap,Tailwind**
+-🌱 I’m currently learning **backend**
+-💬 Ask me about **HTML, CSS, JavaScript, bootstrap, Tailwind**
 - 📫 How to reach me  **vikasbhagat3011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
