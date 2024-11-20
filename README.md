@@ -7,7 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-bhagat&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-bhagat" /> </p>
 
-- 📫 How to reach me **vikasbhagat3011@gmail.com**
+- 🌱 I’m currently learning  **backend**
+- - 💬 Ask me about  **html,css,javascript,bootstrap,Tailwind**
+- 📫 How to reach me  **vikasbhagat3011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,5 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas-bhagat&show_icons=true&locale=en&layout=compact" alt="vikas-bhagat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-bhagat&show_icons=true&locale=en" alt="vikas-bhagat" /></p>
+
+
 
 
