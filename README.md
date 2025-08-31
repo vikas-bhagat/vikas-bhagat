@@ -1,4 +1,4 @@
-
+![logo](https://github.com/vikas-bhagat/vikas-bhagat/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vikas Bhagat</h1>
 <h3 align="center">A BCA Final Year Student | Aspiring Business Analyst | Skilled in Excel, Power BI, Tableau | MBA in Business Analytics (Upcoming)</h3>
 
@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning **SQL, Business Analytics Concepts, Machine Learning for Analytics**
 
 - 👯 I’m looking to collaborate on **Business Analytics Projects – dashboards, reports, case studies**
-
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/vikas-bhagat-](www.linkedin.com/in/vikas-bhagat-)
 
 - 💬 Ask me about **Excel, Power BI, Tableau, Dashboard Design, Data Visualization**
 
