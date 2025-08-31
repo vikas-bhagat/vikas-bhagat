@@ -1,4 +1,4 @@
-![logo](https://github.com/vikas-bhagat/vikas-bhagat/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/vikas-bhagat/vikas-bhagat/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Vikas Bhagat</h1>
 <h3 align="center">A BCA Final Year Student | Aspiring Business Analyst | Skilled in Excel, Power BI, Tableau | MBA in Business Analytics (Upcoming)</h3>
 
