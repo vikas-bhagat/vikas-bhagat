@@ -47,6 +47,11 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau" width="40" height="40"/>
   </a>
+  
+  <!-- n8n -->
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/>
+  </a>
 </p>
 
 
